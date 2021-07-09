@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Zachary Chunli JIANG
+subtitle: CV related contents
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zachary Chunli JIANG. Degrees:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- B.Eng in Mechanical Engineering, Hong Kong University of Science & Technology
+- Pursuing Ph.D in Mechanical Engineering, Robotics Institute, Hong Kong University of Science and Technology
 
 What else do you need?
 
